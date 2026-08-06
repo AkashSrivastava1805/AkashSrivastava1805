@@ -167,54 +167,7 @@ A DevOps automation project featuring:
   <img src="BADGE_IMAGE_URL_1" width="125" alt="Certification Badge 1"/>
 </a>
 
-<a href="BADGE_PROFILE_LINK_2">
-  <img src="BADGE_IMAGE_URL_2" width="125" alt="Certification Badge 2"/>
-</a>
-
-<a href="BADGE_PROFILE_LINK_3">
-  <img src="BADGE_IMAGE_URL_3" width="125" alt="Certification Badge 3"/>
-</a>
-
-<a href="BADGE_PROFILE_LINK_4">
-  <img src="BADGE_IMAGE_URL_4" width="125" alt="Certification Badge 4"/>
-</a>
-
-<a href="BADGE_PROFILE_LINK_5">
-  <img src="BADGE_IMAGE_URL_5" width="125" alt="Certification Badge 5"/>
-</a>
-
 </p>
-
-### 🏆 Learning and Certification Platforms
-
-- Databricks Academy
-- AWS Skill Builder
-- Snowflake University
-- Microsoft Learn
-- Google Cloud Skills Boost
-- GitHub Skills
-- Docker Learning
-- dbt Learn
-- Apache Airflow
-- Coursera
-- Udemy
-- LinkedIn Learning
-- NPTEL
-
----
-
-## 🎖️ Skill Badges
-
-![Python](https://img.shields.io/badge/Python-Skilled-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Skilled-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Data Engineering](https://img.shields.io/badge/Data_Engineering-Enthusiast-00ADEF?style=for-the-badge)
-![DevOps](https://img.shields.io/badge/DevOps-Enthusiast-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-User-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Databricks](https://img.shields.io/badge/Databricks-Lakehouse-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-Analytics_Engineering-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache_Airflow-Orchestration-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
 ---
 
@@ -224,38 +177,8 @@ A DevOps automation project featuring:
 
 <img
   height="180"
-  src="https://github-readme-stats.vercel.app/api?username=AkashSrivastava1805&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-  alt="GitHub Statistics"
-/>
-
-<img
-  height="180"
   src="https://github-readme-streak-stats.herokuapp.com/?user=AkashSrivastava1805&theme=tokyonight&hide_border=true"
   alt="GitHub Streak"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashSrivastava1805&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  alt="Most Used Languages"
-/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=AkashSrivastava1805&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
-  alt="GitHub Trophies"
 />
 
 </div>
