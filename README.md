@@ -106,7 +106,7 @@
 ### 🔧 Tools and Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,databricks,github,git,linux,docker" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,linux,docker" alt="Tools"/>
 </p>
 
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -163,8 +163,8 @@ A DevOps automation project featuring:
 
 <!-- Replace BADGE_PROFILE_LINK and BADGE_IMAGE_URL with your actual badge links -->
 
-<a href="BADGE_PROFILE_LINK_1">
-  <img src="BADGE_IMAGE_URL_1" width="125" alt="Certification Badge 1"/>
+<a href="[BADGE_PROFILE_LINK_1](https://credentials.databricks.com/49405aff-11c1-4219-945b-ced150615986#acc.LaIy9jJd)">
+  <img src="[BADGE_IMAGE_URL_1](https://drive.google.com/file/d/1Kgj19UWaTXa8PphHS4CzlFyX2S751Kdl/view?usp=sharing)" width="125" alt="Certification Badge 1"/>
 </a>
 
 </p>
