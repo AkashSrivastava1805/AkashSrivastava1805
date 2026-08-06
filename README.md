@@ -47,10 +47,12 @@
 
 <p align="center">
 
-<!-- Replace BADGE_PROFILE_LINK and BADGE_IMAGE_URL with your actual badge links -->
-
-<a href="[BADGE_PROFILE_LINK_1](https://credentials.databricks.com/49405aff-11c1-4219-945b-ced150615986#acc.LaIy9jJd)">
-  <img src="[BADGE_IMAGE_URL_1](https://drive.google.com/file/d/1Kgj19UWaTXa8PphHS4CzlFyX2S751Kdl/view?usp=sharing)" width="125" alt="Databricks Fundamentals"/>
+<a href="https://credentials.databricks.com/49405aff-11c1-4219-945b-ced150615986#acc.LaIy9jJd">
+  <img
+    src="./assets/databricks-fundamentals.png"
+    width="125"
+    alt="Databricks Fundamentals Badge"
+  />
 </a>
 
 </p>
