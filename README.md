@@ -43,6 +43,19 @@
 🌱 I continuously explore new technologies and work on practical projects that solve real-world technical problems.
 
 ---
+## 🏅 Certifications and Earned Badges
+
+<p align="center">
+
+<!-- Replace BADGE_PROFILE_LINK and BADGE_IMAGE_URL with your actual badge links -->
+
+<a href="[BADGE_PROFILE_LINK_1](https://credentials.databricks.com/49405aff-11c1-4219-945b-ced150615986#acc.LaIy9jJd)">
+  <img src="[BADGE_IMAGE_URL_1](https://drive.google.com/file/d/1Kgj19UWaTXa8PphHS4CzlFyX2S751Kdl/view?usp=sharing)" width="125" alt="Databricks Fundamentals"/>
+</a>
+
+</p>
+
+---
 
 ## 🚀 What I Work On
 
@@ -154,20 +167,6 @@ A DevOps automation project featuring:
 - Terraform
 - AWS
 - Monitoring and deployment automation
-
----
-
-## 🏅 Certifications and Earned Badges
-
-<p align="center">
-
-<!-- Replace BADGE_PROFILE_LINK and BADGE_IMAGE_URL with your actual badge links -->
-
-<a href="[BADGE_PROFILE_LINK_1](https://credentials.databricks.com/49405aff-11c1-4219-945b-ced150615986#acc.LaIy9jJd)">
-  <img src="[BADGE_IMAGE_URL_1](https://drive.google.com/file/d/1Kgj19UWaTXa8PphHS4CzlFyX2S751Kdl/view?usp=sharing)" width="125" alt="Certification Badge 1"/>
-</a>
-
-</p>
 
 ---
 
