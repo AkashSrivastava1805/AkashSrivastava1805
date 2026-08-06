@@ -12,17 +12,17 @@
 <br>
 
 <img
-  src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"
+  src="https://komarev.com/ghpvc/?username=AkashSrivastava1805&label=Profile%20Views&color=0e75b6&style=flat"
   alt="Profile Views"
 />
 
 <img
-  src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social"
+  src="https://img.shields.io/github/followers/AkashSrivastava1805?label=Followers&style=social"
   alt="GitHub Followers"
 />
 
 <img
-  src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=social"
+  src="https://img.shields.io/github/stars/AkashSrivastava1805?affiliations=OWNER&style=social"
   alt="GitHub Stars"
 />
 
@@ -86,7 +86,7 @@
 ### ☁️ Cloud and DevOps
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,Ansible,git,github,linux" alt="Cloud and DevOps"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,ansible,git,github,linux" alt="Cloud and DevOps"/>
 </p>
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -96,7 +96,7 @@
 ### 🗄️ Databases and Data Warehouses
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="Databases"/>
 </p>
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-Data_Warehouse-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
@@ -106,7 +106,7 @@
 ### 🔧 Tools and Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,linux,docker" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=vscode,databricks,github,git,linux,docker" alt="Tools"/>
 </p>
 
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -130,22 +130,6 @@ A complete data engineering and analytics project built using:
 - Data testing and documentation
 
 The project transforms raw movie datasets into analytics-ready models and presents meaningful insights through an interactive dashboard.
-
-### ☁️ Cloud-Based Browser Platform
-
-A cloud browser solution that provides isolated browser sessions using:
-
-- Electron
-- React
-- Node.js
-- Playwright
-- Docker
-- MongoDB
-- AWS EC2
-- WebSockets
-- WebRTC
-
-The platform supports user-based browser sessions, parental controls, automation, and cloud-hosted browsing.
 
 ### ⚙️ Data Engineering Pipeline
 
@@ -240,13 +224,13 @@ A DevOps automation project featuring:
 
 <img
   height="180"
-  src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  src="https://github-readme-stats.vercel.app/api?username=AkashSrivastava1805&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
   alt="GitHub Statistics"
 />
 
 <img
   height="180"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=AkashSrivastava1805&theme=tokyonight&hide_border=true"
   alt="GitHub Streak"
 />
 
@@ -257,7 +241,7 @@ A DevOps automation project featuring:
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashSrivastava1805&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
   alt="Most Used Languages"
 />
 
@@ -270,7 +254,7 @@ A DevOps automation project featuring:
 <div align="center">
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
+  src="https://github-profile-trophy.vercel.app/?username=AkashSrivastava1805&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
   alt="GitHub Trophies"
 />
 
@@ -283,7 +267,7 @@ A DevOps automation project featuring:
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=AkashSrivastava1805&theme=tokyo-night&hide_border=true"
   alt="GitHub Contribution Graph"
 />
 
@@ -296,6 +280,7 @@ A DevOps automation project featuring:
 - Advanced Data Engineering
 - Data Warehousing and Dimensional Modelling
 - Apache Spark and PySpark
+- Azure Data Engineering
 - Databricks Lakehouse Platform
 - dbt Analytics Engineering
 - Apache Airflow
@@ -312,15 +297,9 @@ A DevOps automation project featuring:
 ## 🎯 Career Interests
 
 - Data Engineering
-- Analytics Engineering
 - DevOps Engineering
 - Cloud Engineering
 - Data Analytics
-- Platform Engineering
-- Data Warehousing
-- Cloud Infrastructure
-- Workflow Automation
-- System Design
 
 ---
 
@@ -350,7 +329,7 @@ Learn → Build → Automate → Test → Deploy → Monitor → Improve
   />
 </a>
 
-<a href="mailto:YOUR_EMAIL_ADDRESS">
+<a href="mailto:akash.1805.srivastava@gmail.com">
   <img
     src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Email"
