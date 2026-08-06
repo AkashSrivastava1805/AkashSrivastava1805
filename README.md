@@ -64,12 +64,11 @@
 ### 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,bash,html,css" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Programming Languages"/>
 </p>
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 📊 Data Engineering and Analytics
 
@@ -87,7 +86,7 @@
 ### ☁️ Cloud and DevOps
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,git,github,linux" alt="Cloud and DevOps"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,Ansible,git,github,linux" alt="Cloud and DevOps"/>
 </p>
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
