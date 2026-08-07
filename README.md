@@ -14,10 +14,10 @@
 <img
   src="https://komarev.com/ghpvc/?username=AkashSrivastava1805&label=Profile%20Views&color=0e75b6&style=flat"
   alt="Profile Views"
-/> <img
+/> | <img
   src="https://img.shields.io/github/followers/AkashSrivastava1805?label=Followers&style=social"
   alt="GitHub Followers"
-/> <img
+/> | <img
   src="https://img.shields.io/github/stars/AkashSrivastava1805?affiliations=OWNER&style=social"
   alt="GitHub Stars"
 />
